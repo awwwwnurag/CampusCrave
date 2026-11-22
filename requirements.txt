@@ -1,0 +1,3 @@
+# Campus Crave - Unified Workspace Dependencies
+-r backend/requirements.txt
+-r face_detection/requirements.txt

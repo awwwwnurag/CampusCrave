@@ -1,0 +1,842 @@
+{
+  "Rasam": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Idli Sambar": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Medu Vada": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Plain Dosa": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Masala Dosa": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Onion Masala Dosa": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Pongal": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Dal Vada": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Onion Uttapam": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Upma": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Lemon Rice": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Curd Rice": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Sambar Rice": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Tomato Rice": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Combo Thali": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Standard Thali": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Premium Thali": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Chef Special Thali (Veg)": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Chef Special Thali (Non-Veg)": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Mix Vegetables": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Aloo Gobhi": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Kadhai Paneer": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Butter Chicken": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Chilli Chicken": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Mint Lemonade": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Watermelon Mojito": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Pineapple Mojito": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Watermelon Orange": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Orange Paradise": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Kiwi Delight": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Mixed Fruit Smoothie": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Mango Smoothie": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Mixed Berry Smoothie": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Blueberry Fruit Punch": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Poppi Kiwi": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Poppi Kiwi-Pine": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Poppi Tender Coconut": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Poppi Chili Guava": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Mix Vegetable": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Red Carrot Beetroot": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Vitamin C Detox": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Watermelon Juice": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Pineapple Juice": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Orange Juice": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Orange-Pineapple Juice": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Mix Fruit Juice": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Cold Coffee (with Honey)": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Banana Shake": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Cold Coffee (with Dates)": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Badam Thandai": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Kesar Dry Fruit Shake": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Adrak Chai": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Masala Chai": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Elaichi Chai": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Turmeric Latte": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Zesty Corn Chaat": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Millet Veggie Sandwich": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Custom Fruit Bowl": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Wrap Combo": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Sandwich Combo": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Lemon Ice Tea": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Watermelon Ice Tea": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Coconut Water": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Almond Milk": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Basil Seeds": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Almonds": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Oats": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Peanut": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Peanut Butter": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Whey Protein (25g Muscle Blaze)": {
+    "outletId": "basil",
+    "outletName": "Basil"
+  },
+  "Vada Pao": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chaap Hot Dog": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Paneer Hot Dog": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chicken Hot Dog": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Paneer Kulcha": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Aloo Pyaza Kulcha": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chicken Kulcha": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chicken Nuggets": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chicken Seekh Kebab": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Potato Cheese Shots": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Veg Grilled Sandwich": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Cheese Sandwich": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Spinach and Corn Sandwich": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Paneer Sandwich in Tandoori Sauce": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Veg Wrap": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Paneer Wrap": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Cheese Loaded Fries": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Arrabbiata Red Sauce Pasta": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Alfredo White Sauce Pasta": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Virgin Mojito": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Chocolate Fudge Shake": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Kit Kat Chopper Shake": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Dal Makhani": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Butter Naan": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Mix Veg": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Kadhaai Paneer": {
+    "outletId": "dice-n-sip",
+    "outletName": "Dice n Sip"
+  },
+  "Chilly Potato": {
+    "outletId": "dice-n-sip",
+    "outletName": "Dice n Sip"
+  },
+  "Aloo Tikki Chat": {
+    "outletId": "dice-n-sip",
+    "outletName": "Dice n Sip"
+  },
+  "Freshly Brewed Coffee": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Espresso": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cappuccino": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Americano": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Mocachino": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Hot Chocolate": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Badam Milk": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Regular Coffee": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Masala Tea": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cardamom Tea": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Green Tea": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Kulhad Tea": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Ice Tea": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Cold Coffee": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Cold Badam Milk": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Vanilla Shake": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Strawberry Shake": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Butterscotch Shake": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Chocolate Shake": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "KitKat Shake": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Mojito": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Fruit Punch": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Masala Maggi": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Veg. Maggi": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Veg. Sandwich": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Paneer Sandwich": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Veg. Pizza": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Paneer Pizza": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Red Sauce Pasta": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "White Sauce Pasta": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Brownie": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chocolava": {
+    "outletId": "georgia",
+    "outletName": "Georgia"
+  },
+  "Veggie Delite (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Double Egg n": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Corn & Peas (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Veg Shami (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Chilli Bean Patty (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Paneer Tikka (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Chicken Slice (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Chicken Meatball (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Roast Chicken (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Peri Peri Chicken (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Tandoori Chicken (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Chicken Teriyaki (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Tuna (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Italian BMT (Chicken) (6-inch/Footlong)": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Cheese Slice": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Cheese Pull": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Extra Veg Protein": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Extra Non-Veg Protein": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Speciality Dips": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Crispers": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Veggie Kebabs with dip": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Chicken Meatballs with dip": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Toastie": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Nachos with Dip": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Veg Sandwich": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chilli Cheese Sandwich": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chicken Tikka Sandwich": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Burger": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Cheese Burger": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chicken Burger": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Steam Momo": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chicken Steam Momo": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Fried Momo": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "French Fries": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Masala Fries": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Chicken Strips": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Pasta White Sauce Veg": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Pasta Red Sauce Veg": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Maggi": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Cheese Maggi": {
+    "outletId": "nescafe",
+    "outletName": "Nescafe Corner"
+  },
+  "Veg Samosa": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Puff": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Brownie with Ice Cream": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Cafe Mocha": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cafe Latte": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Filter Coffee": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Garam Chai": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Lemon Chai": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cardamom Chai": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Ginger Chai": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Boost": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Horlicks": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Eskimo Coffee": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Tropical Moksha": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cold Choco": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Chocolate Moksha": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Orangillo": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Lemon Iced Tea": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Storm Energy Drink": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Cold Coffee (Vanilla/Hazelnut)": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Rush Fruit Juice": {
+    "outletId": "ccd",
+    "outletName": "Cafe Coffee Day"
+  },
+  "Italian B.M.T.": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Veggie Delight": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Signature Wrap": {
+    "outletId": "subway",
+    "outletName": "Subway"
+  },
+  "Cheesy Fries": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Brownie With Ice Cream": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Veg Spring Roll": {
+    "outletId": "uncles",
+    "outletName": "Uncle"
+  },
+  "Mix Sauce Pasta": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Paneer Fried Rice": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Mango Shake": {
+    "outletId": "happiness-store",
+    "outletName": "Happiness Store"
+  },
+  "Hazelnut Cappuccino": {
+    "outletId": "nescafe",
+    "outletName": "Nescafe Corner"
+  },
+  "Coffee Frappe": {
+    "outletId": "nescafe",
+    "outletName": "Nescafe Corner"
+  },
+  "Chhole Samose": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Vadapav": {
+    "outletId": "food-court",
+    "outletName": "Food Court"
+  },
+  "Aloo Parantha with Curd/Butter/Sabzi": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Rajma Rice": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Dice n Sip": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Georgia": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Georgia Cafe Special": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  },
+  "Uncle": {
+    "outletId": "ahaar-cafe",
+    "outletName": "Ahaar Cafe"
+  }
+}
